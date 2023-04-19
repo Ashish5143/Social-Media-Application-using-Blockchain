@@ -11,3 +11,12 @@ Ethers (Blockchain Interaction)
 Hardhat (Development Framework)
 Ipfs (Metadata storage)
 React routers (Navigational components)
+
+![Screenshot_20230419-184756](https://user-images.githubusercontent.com/120575887/233087478-bb9b497d-87d3-4616-83c4-a6fd12a5c273.jpg)
+
+![Screenshot_20230419-184753](https://user-images.githubusercontent.com/120575887/233087607-1ec1b377-4e5f-481d-8154-38bdf07381a1.jpg)
+
+![Screenshot_20230419-184750](https://user-images.githubusercontent.com/120575887/233087690-d591b98e-af0b-4531-8e62-abc71d0ecb89.jpg)
+
+![Screenshot_20230419-184810](https://user-images.githubusercontent.com/120575887/233087817-91f15ec2-804d-4246-a6ac-8c85b705d165.jpg)
+
